@@ -5,7 +5,6 @@
     margin:0; /* If you want no margin */
     padding:0; /*if your want to padding */
     color:red;
-    font-style: italic;
     
 }
 
@@ -109,4 +108,12 @@ header {
 
 .insignup{
 	padding: 20px 30px;
+}
+
+.inlogin{
+	padding: 20px 30px;
+}
+
+.error_login{
+	color: #fff;
 }
